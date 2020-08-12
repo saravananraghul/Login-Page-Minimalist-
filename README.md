@@ -1,6 +1,6 @@
 # Login Page(Minimalist)
 
-Demo -- https://modest-panini-ac2fbd.netlify.app/
+Demo -- https://minimalist-login.netlify.app/
 
 ## Created Using
 
